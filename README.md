@@ -1,6 +1,6 @@
 Discord;
 
-↬ Ƒʉͫcͧкͭιͪηͣ dbxflame#6666
+↬ Ƒʉͫcͧкͭιͪηͣ dbxflame#4141
 
 ───────────────────────────────────────────────────────────────────────
 
@@ -15,5 +15,7 @@ Coding Languages;
 Stuff i do;
 
 ↬ Discord Bot's
+
+↬ Nitrado Development
 
 ↬ More soon
