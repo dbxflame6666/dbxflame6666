@@ -8,6 +8,8 @@ Coding Languages;
 
 ↬ Python
 
+↬ JavaScript
+
 ↬ HTML
 
 ↬ CSS
