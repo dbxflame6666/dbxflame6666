@@ -1,6 +1,14 @@
 ## My Skills
+[![](https://skillicons.dev/icons?i=discordbots)](https://discord.dev/ "Discord Bots")
 [![](https://skillicons.dev/icons?i=py)](https://python.org/ "Python")
+[![](https://skillicons.dev/icons?i=js)](https://www.javascript.com/ "JS")
+[![](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/ "MongoDB")
+[![](https://skillicons.dev/icons?i=git)](https://git-scm.com/ "Git")
 
-## 🚀 Discord Bot Developer
-Known Bot Developer for all your needs!
-> [dbxServices](https://dbxServices.xyz)
+
+## 👋 About Me
+Hey, I'm dbx, a backend developer from Germany! In my spare time, I work on Discord such as my own bot called "George".
+
+
+## 🚀 My Stats
+[![](https://github-readme-stats.vercel.app/api?username=dbxflame6666&theme=dracula&count_private=true&show_icons=true&hide=contribs)](https://github.com/dbxflame6666)
