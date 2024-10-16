@@ -7,7 +7,7 @@
 
 
 ## 👋 About Me
-Hey, I'm dbx, a backend developer from Germany! In my spare time, I work on Discord such as my own bot called "George".
+Hey, I'm dbx, a backend developer from Germany! In my spare time, I work on Discord bots such as my own bot called "George".
 
 
 ## My Discord:
