@@ -1,7 +1,8 @@
 ## My Skills
-[![](https://skillicons.dev/icons?i=discordbots)](https://discord.dev/ "Discord Bots")
+[![](https://skillicons.dev/icons?i=discord)](https://discord.dev/ "Discord Bots")
 [![](https://skillicons.dev/icons?i=py)](https://python.org/ "Python")
 [![](https://skillicons.dev/icons?i=js)](https://www.javascript.com/ "JS")
+[![](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org "TS")
 [![](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/ "MongoDB")
 [![](https://skillicons.dev/icons?i=git)](https://git-scm.com/ "Git")
 
