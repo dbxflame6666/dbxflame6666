@@ -13,7 +13,3 @@ Hey, I'm dbx, a backend developer from Germany! In my spare time, I work on Disc
 
 ## My Discord:
 [![](https://img.shields.io/discord/1067863414698950656?label=discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/AjSjCFdxkr)
-
-
-## 🚀 My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbxflame6666&layout=compact&theme=blueberry&count_private=true&hide_border=true)<
