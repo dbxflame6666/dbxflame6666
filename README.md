@@ -16,4 +16,4 @@ Hey, I'm dbx, a backend developer from Germany! In my spare time, I work on Disc
 
 
 ## 🚀 My Stats
-[![](https://github-readme-stats.vercel.app/api?username=dbxflame6666&theme=dracula&count_private=true&show_icons=true&hide=contribs)](https://github.com/dbxflame6666)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbxflame6666&layout=compact&theme=blueberry&count_private=true&hide_border=true)<
